@@ -1,0 +1,51 @@
+<html>
+<body>
+<div style="background: url("video-bg.jpg") no-repeat; padding: 18px; width: 600px; height: 300px;">
+    <iframe width="537" height="301" src="http://www.youtube.com/embed/ZUG9qYTJMsI?rel=0&autohide=1&autoplay=0"  frameborder="0" allowfullscreen></iframe>
+</div>
+</body>
+</html>
+
+
+$data = json_encode($edituserdata);
+            $service_url = 'candidate-edit';           
+            $method = 'POST';
+            $plugin = $this->GetServicePlugin();
+            $edituser_response = $plugin->getservice($data, $service_url, $method);
+
+
+
+numerous brains geekqs
+
+make G big in develop
+
+geek quotient to qs
+
+small g
+and font change
+
+
+
+techassess.in
+
+
+==========================
+
+corporate can have 3 t
+api control in bucket level, not in tests.
+
+create a bucket and any number of tests
+
+
+superadmin login can have 3 sections. question banks are raw queston set
+raw content has categories
+category is impotant 
+skills associated with that category
+open bank which belongs to a category
+
+browse the questions in bank
+
+under bank choose questions and assign values
+
+
+while adding skill, let choose multiple skills where it can belong
